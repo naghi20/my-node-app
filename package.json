@@ -1,0 +1,23 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naghi20/my-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naghi20/my-node-app/issues"
+  },
+  "homepage": "https://github.com/naghi20/my-node-app#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
